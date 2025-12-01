@@ -239,7 +239,7 @@ Karena GitHub membatasi ukuran file, maka:
 
 ---
 
-# 🧑‍🤝‍🧑 **Pembagian Peran Kelompok**
+# 🧑‍🤝‍🧑 **Kelompok**
 
 1. Moh Magribi Ramadhan_F55124104
 2. Andika_F55124083
@@ -269,7 +269,7 @@ Karena GitHub membatasi ukuran file, maka:
 
 # 🎉 **Project Completed**
 
-Sistem AR → Digital Twin sudah berjalan penuh:
+Sistem AR → Digital Twin sudah berjalan penuh
 
 * Tracking ✔
 * Interaksi ✔
