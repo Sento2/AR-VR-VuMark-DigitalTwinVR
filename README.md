@@ -46,31 +46,57 @@ Proyek dikembangkan menggunakan:
 📁 Struktur Folder Project
 
 Assets/
+
 ├── AR/
+
 │   ├── ARScene.unity
+
 │   ├── ImageTarget_Box
+
 │   ├── ImageTarget_Drum
+
 │   ├── ImageTarget_Conveyor
+
 │   ├── Box_AR (Cube)
+
 │   ├── Drum_AR (Cylinder)
+
 │   └── Conveyor_AR (Cube panjang)
+
 │
+
 ├── DigitalTwin/
+
 │   ├── DigitalTwinScene.unity
+
 │   ├── Box_DT
+
 │   ├── Drum_DT
+
 │   └── Conveyor_DT
+
 │
+
 ├── Scripts/
+
 │   ├── ARSelectableItem.cs
+
 │   ├── ARTapInput.cs
+
 │   ├── ARItemTracker.cs
+
 │   ├── InventoryManager.cs
+
 │   └── DigitalTwinItem.cs
+
 │
+
 └── UI/
+
     ├── BtnBackToAR
+    
     ├── BtnToDigitalTwin
+    
     └── Canvas
 
 
