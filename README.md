@@ -3,8 +3,11 @@
 👨‍💻 Pengembang
 ---------------------------------------------------------------
 Nama: Moh Magribi Ramadhan
+
 NIM: F55124104
+
 Kelompok: 4
+
 Program Studi: Informatika – Universitas Tadulako
 Tahun: 2025
 
