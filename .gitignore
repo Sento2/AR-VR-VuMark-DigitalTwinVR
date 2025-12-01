@@ -1,0 +1,26 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
+# IDE / VS
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Gradle / Android / build
+.gradle/
+*.apk
+*.aab
+
+# Jangan commit paket Vuforia yang besar
+Packages/com.ptc.vuforia.engine-*.tgz
+*.tgz
